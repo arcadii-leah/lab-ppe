@@ -1,0 +1,16 @@
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\bin\Debug\Lesson_Animation.exe.config
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\bin\Debug\Lesson_Animation.exe
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\bin\Debug\Lesson_Animation.pdb
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\obj\Debug\Lesson_Animation.csprojResolveAssemblyReference.cache
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\obj\Debug\Lesson_Animation.Form1.resources
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\obj\Debug\Lesson_Animation.Properties.Resources.resources
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\obj\Debug\Lesson_Animation.csproj.GenerateResource.Cache
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\obj\Debug\Lesson_Animation.exe
+D:\Programmirovanie\C#\Grafika\Lesson_Animation\Lesson_Animation\obj\Debug\Lesson_Animation.pdb
+C:\Users\A1\Desktop\Lab 2 PPE\Lesson_Animation\obj\Debug\Lesson_Animation.csprojAssemblyReference.cache
+C:\Users\A1\Desktop\Lab 2 PPE\Lesson_Animation\obj\Debug\Lesson_Animation.Form1.resources
+C:\Users\A1\Desktop\Lab 2 PPE\Lesson_Animation\obj\Debug\Lesson_Animation.Properties.Resources.resources
+C:\Users\A1\Desktop\Lab 2 PPE\Lesson_Animation\obj\Debug\Lesson_Animation.csproj.GenerateResource.cache
+C:\Users\A1\Desktop\Lab 2 PPE\Lesson_Animation\obj\Debug\Lesson_Animation.csproj.CoreCompileInputs.cache
+C:\Users\A1\Desktop\Lab 2 PPE\Lesson_Animation\obj\Debug\Lesson_Animation.exe
+C:\Users\A1\Desktop\Lab 2 PPE\Lesson_Animation\obj\Debug\Lesson_Animation.pdb
